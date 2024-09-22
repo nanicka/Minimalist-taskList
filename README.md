@@ -9,7 +9,7 @@ Uma lista de tarefas bem simples, em tons pasteis, feita pra ser minimalista e t
 
 ## Instruções de como executar a aplicação
 Acesse o link:
-https://nanicka.github.io/projeto-restic/
+
 
 
 ## Tecnologias utilizadas
