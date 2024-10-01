@@ -5,10 +5,10 @@ Lista de tarefas minimalista
 ---
 
 ## Descrição do projeto.
-Uma lista de tarefas bem simples, em tons pasteis, feita pra ser minimalista e te permitir listar suas tarefas sem muito drama.
+Uma lista de tarefas bem simples, em tons pasteis, feita pra ser minimalista e te permitir listar suas tarefas sem muito drama. O usuário pode criar uma tarefa, marcar como feita e deletar uma tarefa.
 
 ## Instruções de como executar a aplicação
-Acesse o link
+Use os comandos a seguir, é importante rodar o servidor Json ou as tasks não serão salvas.
 
 ```bash
 
